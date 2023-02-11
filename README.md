@@ -1,7 +1,7 @@
 
 # 📌 Estudiantes CRUD
 
-¡Hola! Esta es una aplicación desarrollada con Angular 12  que consta de un formulario donde se agreguen estudiantes  utilizando la API con arquitectura de microservicios con el framework  de spring boot  [http://localhost:9000/api/v1/card]
+¡Hola! Esta es una aplicación desarrollada con Angular 12  que consta de un formulario CRUD que se comunica mediante un API con arquitectura de microservicios con el framework  de spring boot [http://localhost:9000/api/v1/card]
 
 Esta aplicación fue creada por [Danilo Andres Pineda Moreno] como prueba tecnica para novatec su estructura inicial fue creada con el comando `ng new`.
 
